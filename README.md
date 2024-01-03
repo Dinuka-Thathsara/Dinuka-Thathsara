@@ -73,9 +73,9 @@ this dynamic field.
     <a href="https://www.w3.org/Style/CSS/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
     </a>
-    <!-- Windows -->
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
+    <!-- Linux -->
+    <a href="https://www.linux.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Linux" width="40" height="40"/>
     </a>
     <!-- Ubuntu -->
     <a href="https://ubuntu.com/" target="_blank">
@@ -83,7 +83,7 @@ this dynamic field.
     </a> 
     <!-- Bash -->
     <a href="https://www.gnu.org/software/bash/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/GNU_Bash_logo.svg" alt="bash" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/>
     </a>
     <!-- PowerShell -->
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
