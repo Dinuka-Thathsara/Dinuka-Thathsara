@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dinuka Thathsara</h1>
-<h3 align="center">Highly motivated and a hard working individual who has a passion for computer science and who loves to try out different technologies.</h3>
+<h3 align="center">I'm a motivated, hard-working
+computer science enthusiast with a
+passion for exploring new
+technologies. I thrive on challenges,
+am a quick learner, and excel in
+teamwork and leadership. Eager to
+dive into cutting-edge tech and
+make meaningful contributions in
+this dynamic field.
+</h3>
 
 - 🔭 I’m currently studying at **University of Moratuwa**
 
@@ -56,10 +65,6 @@
     <a href="https://www.java.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>  
-    <!-- PHP -->
-    <a href="https://www.php.net" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
     <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
