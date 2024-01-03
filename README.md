@@ -10,7 +10,7 @@ make meaningful contributions in
 this dynamic field.
 </h3>
 
-- 🔭 I’m currently studying at **University of Moratuwa**
+- 🔭 I’m currently studying at **Department of Computer Science and Engineering University of Moratuwa**
 
 - 🌱 I’m currently learning **K8s**
 
@@ -75,7 +75,7 @@ this dynamic field.
     </a>
     <!-- Linux -->
     <a href="https://www.linux.org/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Linux" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="Linux" width="40" height="40"/>
     </a>
     <!-- Ubuntu -->
     <a href="https://ubuntu.com/" target="_blank">
@@ -84,31 +84,11 @@ this dynamic field.
     <!-- Bash -->
     <a href="https://www.gnu.org/software/bash/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <!-- PowerShell -->
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Powershell_5.0_icon.png" alt="powershell" width="40" height="40"/>
     </a>   
-    <!-- Trivy -->
-    <a href="https://trivy.org/" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/38682308?s=200&v=4" alt="trivy" width="40" height="40"/>
-    </a>
-    <!-- FOSSA -->
-    <a href="https://fossa.com/" target="_blank">
-      <img src="https://www.fossa.com/hubfs/FOSSA%20-%20Brand%20Materials/FOSSA%20Icon.svg" alt="fossa" width="40" height="40"/>
-    </a>
     <!-- Postman -->
     <a href="https://www.postman.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>  
-    <!-- PyCharm -->
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="pycharm" width="40" height="40"/>
-    </a> 
-    <!-- IntelliJ -->
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
-    </a> 
     <!-- VS Code -->
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/>
