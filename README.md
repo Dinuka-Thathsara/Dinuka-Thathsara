@@ -20,10 +20,9 @@ this dynamic field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Isuruari97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isuru ariyarathne" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/isuru-ariyarathne-9237381a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru ariyarathne" height="30" width="40" /></a>
-<a href="https://www.instagram.com/isuruariyarathne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuruari" height="30" width="40" /></a>
-<a href="https://medium.com/@isuruariyarathne97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isuruariyarathne97" height="30" width="40" /></a>
+<a href="https://twitter.com/DinukaThathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dinuka Thathsara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinuka-thathsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dinuka Thathsara" height="30" width="40" /></a>
+<a href="https://medium.com/@dinukathathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dinukathathsara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
