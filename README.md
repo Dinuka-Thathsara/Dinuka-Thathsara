@@ -11,7 +11,6 @@ I enjoy exploring **cloud-native technologies**, **DevOps tools**, and **AI adva
 ### 💼 About Me
 
 - 🔭 I’m currently exploring **Cloud Engineering, Microservices, and DevOps automation**.
-- 🌱 I’m currently learning **Kubernetes (K8s), distributed systems, and platform engineering**.
 - 💼 I focus on **Enterprise Application Development** and **Integration Architecture**.
 - 🎓 **B.Sc. (Hons) in Computer Science & Engineering** - University of Moratuwa.
 - 🤖 Enthusiast in **AI technologies** and their practical engineering applications.
