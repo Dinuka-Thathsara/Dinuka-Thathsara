@@ -4,7 +4,7 @@
 
 I’m a **Computer Science & Engineering Graduate** from the **University of Moratuwa**, passionate about building scalable applications, designing reliable system architectures, and continuously learning modern engineering practices.
 
-I enjoy exploring **cloud-native technologies**, **DevOps tools**, and **AI advancements** in my free time.
+I enjoy exploring **cloud-native technologies** and **AI advancements** in my free time.
 
 
 ### 📫 Connect with Me
